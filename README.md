@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Madraszynko
-- 👀 I’m interested in ITSec.
-- 🌱 I’m currently learning Powershell and Python.
+Hello
